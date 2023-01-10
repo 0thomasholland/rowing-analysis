@@ -4,7 +4,7 @@
 This is a simple script that reads a CSV output from a CoxOrb and outputs some graphics for analysis under the "output" folder.
 
 
-I have run the data from the 2022 Fairbairns race for the Jesus M1 crew as a test, and have written some quick analysis under the "Fairbairns_analysis.md" file, the graphs output can be seen under the "fairbairns_output" folder.
+I have run the data from the 2022 Fairbairns race for the Jesus M1 crew as a test, and have written some quick analysis under the "[Fairbairns_analysis.md](https://github.com/th-holland/rowing-analysis/blob/main/Fairbairns_analysis.md)" file, the graphs output can be seen under the "fairbairns_output" folder.
 
 
 ## License: MIT Open Source
