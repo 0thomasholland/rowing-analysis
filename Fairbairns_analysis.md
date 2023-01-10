@@ -4,6 +4,10 @@ NB - correction, Elasped time should be in "sec" not "mins"
 
 ## Summary
 
+- An increase in rate through the race allowed the crew to maintain a consistent speed
+- Final increase of rate at the end was rewarded with an increased speed
+- The boat check was correlated with both the time through course and the rate
+- At the same speed values, there are higher check values later into the race compared to the earlier portions
 
 ## Boat speed through time
 
